@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: design | Carl Nelson]]></title>
+  <link href="http://carlrnelson.com/blog/categories/design/atom.xml" rel="self"/>
+  <link href="http://carlrnelson.com/"/>
+  <updated>2014-05-01T15:23:24-07:00</updated>
+  <id>http://carlrnelson.com/</id>
+  <author>
+    <name><![CDATA[Carl Nelson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Case for Writing About Design]]></title>
+    <link href="http://carlrnelson.com/blog/2013/10/20/a-case-for-writing-about-design/"/>
+    <updated>2013-10-20T20:38:00-07:00</updated>
+    <id>http://carlrnelson.com/blog/2013/10/20/a-case-for-writing-about-design</id>
+    <content type="html"><![CDATA[<p>Writing about design is one of those daunting things that I see very few designers do. Whether experienced and deeply skilled or fresh out of the gate, so few of us write about design. We have enough on our plate right? We have consulting gigs, full time jobs, startups, meet-ups, conferences, side projects, and art projects going on. Where would we find the time to write?</p>
+
+<p>Also, why write when there are folks like <a href="http://the-pastry-box-project.net/mike-monteiro/2013-september-14/">Mike Monteiro</a>, <a href="http://www.wired.com/opinion/2013/09/why-do-research-when-you-can-fail-fast-pivot-and-act-out-other-popular-startup-cliches/">Erika Hall</a>, <a href="http://shapeofdesignbook.com/">Frank Chimero</a>, <a href="http://www.zeldman.com/">Jeffrey Zeldman</a>, and so many other spectacular designers who have so much more to say.</p>
+
+<p>It scares the shit out of me to write about design. That may not be a great reason to write about design, but it sure as hell is one reason among many. So, I did what any designer would do, I brainstormed ideas on sticky-notes until I got past the easy ones, then wrote down some more. I ended up with 31 reasons. They fell into some clear groups.</p>
+
+<h2>Culture &amp; Community</h2>
+
+<p>Any community or culture has it’s high points and low points; the things we’re exceptionally proud of and those things which we want to change. Writing is a great way to shine the light on exemplars of the community and to challenge those aspects which don’t deserve the position they have.</p>
+
+<p>This could be writing about trends in design <em>(remember that whole <a href="http://sachagreif.com/flat-pixels/">flat vs. skeuomorphism</a> thing)</em>, unearthing injustices or bias within the community <em>(<a href="http://places.designobserver.com/feature/why-architects-need-feminism/35448/">why architects need feminism</a>)</em>, or simply providing a recap of a conference <em>(IxDA 2013 was totes awesome)</em>.</p>
+
+<p>Write about the culture and community you work in. Talk about the issues that you face as a person within the design community. Challenge your culture to push itself beyond <a href="http://insideintercom.io/the-dribbblisation-of-design/">shallow levels of work</a>.</p>
+
+<h2>Understand &amp; Improve</h2>
+
+<p><blockquote><p>“You need to be able to express your ideas. So find a way to get your thoughts out there so you have experience articulating and defending a point of view, because that’s what design ultimately is; a point of view.”</p><footer><strong>Jeffrey Zeldman</strong> <cite><a href='http://drt.fm/jeffrey-zeldman-happy-cog-interview-why-designers-need-to-craft-words-not-pixels/'>drt.fm/&hellip;</a></cite></footer></blockquote></p>
+
+<p>Writing, like design, is a medium for communicating a vision or point of view. Writing about our work improves how we understand our design decisions. It improves our arguments for a certain solution over another and shares our decisions with others. It adds a clarity of purpose and forces us to enumerate the intentions of our work.</p>
+
+<p>It provides a space for reflection and a reflective awareness of our work as we <a href="http://www.carlrnelson.com/blog/2012/11/25/getting-back-to-words/">think about writing about it</a>. Reflecting is an opening for improvement and understanding. Why did this process work? What about this design doesn’t meet our companies values? How could we improve the manner in which we share our work?</p>
+
+<p>Write about your work. Examine the process you used to get from A to Z. Clarify your reasons for deciding on one design over another. Philosophize over the principles that go into your work.</p>
+
+<h2>Discourse &amp; Criticism</h2>
+
+<p>There’s nothing like a good bit of design criticism and discourse to rouse the blood. Whether deconstructing the merits of an exceptional piece of work, or critiquing a poorly designed flow, this kind of stuff gets the conversation <em>(or rants)</em> flowing.</p>
+
+<p><blockquote><p>“Like is not a design word and has nothing to do with any business goal. It’s just a reported mental attitude with no necessary connection to behavior.”</p><footer><strong>Erika Hall</strong> <cite><a href='http://www.wired.com/opinion/2013/09/why-do-research-when-you-can-fail-fast-pivot-and-act-out-other-popular-startup-cliches/'>www.wired.com/opinion/2013/09/&hellip;</a></cite></footer></blockquote></p>
+
+<p>Be wary of wandering into the <em><a href="http://tristanedwards.me/what-ios7-should-look-like">I could have done better</a></em> critique zone though. It’s douchey, most likely simple minded, or outright ignoring many product negotiations that shaped the final design. It’s one thing to have a critique, it’s another to tear down other designers because you didn’t like the outcome.</p>
+
+<h2>Meaning &amp; Making</h2>
+
+<p><blockquote><p>Design: The rendering of intent.</p></p><p><p>Design Process: The intention behind how we render intent.</p><footer><strong>@jmspool</strong> <cite><a href='https://twitter.com/jmspool/statuses/377091131986558976'>twitter.com/jmspool/statuses/&hellip;</a></cite></footer></blockquote></p>
+
+<p>By writing we can explore stories and concepts that we may not yet have the tools to design for. It is a way of rendering intent through a narrative prototype that shows what a problem is, how it may be solved, or why it is important.</p>
+
+<p>We can explore ideas we may only have modest napkin sketches about. Define their use cases or open up new questions to explore. Writing is in many ways, as free a space to imagine and create as a whiteboard.</p>
+
+<p>Design is as much about telling stories as it is about making artifacts.</p>
+
+<h2>Business &amp; Work</h2>
+
+<p>No one has written more succinctly about the business of design as Mike Monteiro has. His book, <a href="http://www.abookapart.com/products/design-is-a-job">Design is a Job</a>, is, <em>obviously</em>, all about what makes up the business and work life of a designer.</p>
+
+<p>So much of design is time not spent prototyping, designing, or making. It is time spent negotiating and communicating. Our job as designers is to facilitate the difficult conversations; to make sure those conversations happen.</p>
+
+<p>Writing about the business of design gives a window into what it is like to work with you. Writing case studies showcases how a particular project came to be and what your process is. Writing about the challenges of working within certain development practices gives insight into how you work with developers. Share the way you work with others.</p>
+
+<p>Don’t be a black box designer.</p>
+
+<h2>Write, Share, Teach</h2>
+
+<p>Writing is a means to bring others into the craft. It shows new designers a transparency that should be a standard practice within our field.</p>
+
+<p>Writing gives back to the craft, to the future members of it, and to your clients and stakeholders.</p>
+
+<p>Even if writing scares the shit out of you, <em>it probably will for a while</em>, it’s a responsibility to yourself, to the craft, and to the community to do so.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chores]]></title>
+    <link href="http://carlrnelson.com/blog/2013/09/22/chores/"/>
+    <updated>2013-09-22T19:01:00-07:00</updated>
+    <id>http://carlrnelson.com/blog/2013/09/22/chores</id>
+    <content type="html"><![CDATA[<p>Sometimes design is like doing chores around the house.</p>
+
+<p>It’s sweeping and tidying.</p>
+
+<p>Getting into the corners with a sponge.</p>
+
+<p>Doing the dishes and folding the laundry.</p>
+
+<p>It’s not always about the big choices. Like what your budget is for rent, where you live, or what color you paint your walls; even the choices about what you hang on the walls and what set of dishes you’ll purchase. Those things matter; they set the direction, but they don’t make the home.</p>
+
+<p>The small tokens of effort, day in and day out, make the home. They tend the space. They show care and mindfulness.</p>
+
+<p>Design needs direction; but more than ever, it needs mindfulness. It needs a sensitivity to consequences and normative functions, an awareness of culture and power, a sharing of responsibility and respect.</p>
+
+<p>Do the chores. Find a sense of ease and solace in them. They rarely wow us in their completion, yet without them, our spaces end in shambles.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Creative Spaces]]></title>
+    <link href="http://carlrnelson.com/blog/2013/02/25/creative-spaces/"/>
+    <updated>2013-02-25T19:43:00-08:00</updated>
+    <id>http://carlrnelson.com/blog/2013/02/25/creative-spaces</id>
+    <content type="html"><![CDATA[<p>I finally purchased a desk. After tormenting myself with the dreamy fields of vintage and high-end designer desks. I stumbled across a desk at Scandanavian Designs that was very nearly exactly what I was looking for. So much so that it parallelled some of the design decisions I made while sketching an ideal desk.</p>
+
+<p>And so the first pieces of my creative workspace are coming together. The desk is the keystone. The rest layers atop of it.</p>
+
+<p>It makes such a difference to have a workspace all your own. A place where you can feel free to leave work in progress scattered across the surface to come back to the next day. A place you can paste up crazy ideas. A place where hours whisk away as you begin researching a new project.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Perfectionista]]></title>
+    <link href="http://carlrnelson.com/blog/2012/12/08/perfectionista/"/>
+    <updated>2012-12-08T17:24:00-08:00</updated>
+    <id>http://carlrnelson.com/blog/2012/12/08/perfectionista</id>
+    <content type="html"><![CDATA[<p>One of the things I battle with constantly is the blank page, the emptry screen. That's why it took me so long to just suck it up and put up this writing space that isn't perfect; that isn't how I want it to be yet functions as a minimum viable experience for my writing.</p>
+
+<p>It's easy to get sucked into learning a new tool, trying out a different setup, or avoiding the page all together than just putting fingers to the keys and writing. It's hard enough to keep all of the distractions of the world away when we need to work, no less the internal distractions that draw us away from work with promises of a better pencil. <em>Your fucking Conderoga is going to do just fine.</em></p>
+
+<p>I've been listened to Mule Radio's show <a href="http://muleradio.net/mistakes/" title="Let's Make Mistakes">"Let's Make Mistakes"</a> with <a href="http://twitter.com/Mike_FTW" title="Mike Monteiro on Twitter">Mike Monteiro</a> and <a href="http://twitter.com/ohheygreat" title="Leah Reich on Twitter">Leah Reich</a> a lot lately. Granted that's partly because it has been pouring in San Francisco pretty much everyday for the past week and my bicycle has been in some state of disassembly, but also because it's a great show. In "Digging Yourself Out Of A Hole" and "What Happens When You Make A Mistake" they pull out some of the hard realities of creative work that we get stuck in.</p>
+
+<h3>Digging yourself out of a hole... getting stuck and what to do.</h3>
+
+<p>I found myself this week in a hole. I was coming back to the designs for a project at work that has been a long time going. And just to put it into context, this project isn't a sexy project; it's the sweaty, roll up your sleeves and get it done kind of project. So, I'm coming back to this project for which I had already built out a functional prototype during our last dev release cycle and some additional robustness that I'd been arguing for got scoped in, yet I'm stuck in the under-scoped unreleased prototype design and just can't get it moving again.</p>
+
+<p>This is what Mike loosely explained as the <em>"it's 3pm and the designer is still only on version 3 of the mockup"</em> problem. I was waiting for that idea to be <strong>The Idea</strong>, and so when I went back, that idea was what I latched onto and it wasn't getting me anywhere. I expected it to be the solution and it wasn't. Cue my exceptional design director to come into our 1 on 1 get me to question the fundamentals I had assumed for the problem. In the last hour of the day I was back on track dumping some of my assumptions and moving the work forward.</p>
+
+<p>My design director gave me a moment to break my head above the trees and see the forest. There won't always be someone there to give me a boost above the trees but I can learn to remember to make sure to step up and take a look myself from time to time.</p>
+
+<h3>Design as communication.</h3>
+
+<p>If you've read <a href="http://abookapart.com/products/design-is-a-job" title="A Book Apart: Design is a Job"><em>Design is a Job</em></a> you'll know that a large part of design work is about selling your work, essentially a communication tool. If you haven't read it, go... buy it, read it now.</p>
+
+<p>Going back to the work I was doing for this project, I was stuck on it, but what I was stuck on it because I already had this communication tool that I thought was sufficient with a few tweaks, however it wasn't sufficient because my audience had changed. I had been using the prototype to test with users, to check usefulness and discover problems with usability; but now I had to communicate internally, about what we were exactly building, how it was going to work, and why we were doing it a certain way.</p>
+
+<p>In essence, I had ended up in a different forest and I hadn't even noticed because the trees looked the same.</p>
+
+<p>I needed to communicate with different deliverables because I was no longer talking to users, I was talking to product management and lead developers. Shifting from working within small startups where there is no product management structure and what you're designing is getting built the same week to a large organization where a large part of the design process is creating documentation of your work is still a challenge for me. Those documents help you sell you ideas when you aren't there, they also make sure your ideas are clearly documented when the building happens, or when questions arise as to how things will be built.</p>
+
+<p>The urge to build first can get in the way of communicating your ideas to larger audiences outside of your immediate team, so don't shy away from deliverables that are communication tools first.</p>
+]]></content>
+  </entry>
+  
+</feed>

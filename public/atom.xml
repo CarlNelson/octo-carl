@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Carl Nelson]]></title>
+  <link href="http://carlrnelson.com/atom.xml" rel="self"/>
+  <link href="http://carlrnelson.com/"/>
+  <updated>2014-05-01T15:23:24-07:00</updated>
+  <id>http://carlrnelson.com/</id>
+  <author>
+    <name><![CDATA[Carl Nelson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Case for Writing About Design]]></title>
+    <link href="http://carlrnelson.com/blog/2013/10/20/a-case-for-writing-about-design/"/>
+    <updated>2013-10-20T20:38:00-07:00</updated>
+    <id>http://carlrnelson.com/blog/2013/10/20/a-case-for-writing-about-design</id>
+    <content type="html"><![CDATA[<p>Writing about design is one of those daunting things that I see very few designers do. Whether experienced and deeply skilled or fresh out of the gate, so few of us write about design. We have enough on our plate right? We have consulting gigs, full time jobs, startups, meet-ups, conferences, side projects, and art projects going on. Where would we find the time to write?</p>
+
+<p>Also, why write when there are folks like <a href="http://the-pastry-box-project.net/mike-monteiro/2013-september-14/">Mike Monteiro</a>, <a href="http://www.wired.com/opinion/2013/09/why-do-research-when-you-can-fail-fast-pivot-and-act-out-other-popular-startup-cliches/">Erika Hall</a>, <a href="http://shapeofdesignbook.com/">Frank Chimero</a>, <a href="http://www.zeldman.com/">Jeffrey Zeldman</a>, and so many other spectacular designers who have so much more to say.</p>
+
+<p>It scares the shit out of me to write about design. That may not be a great reason to write about design, but it sure as hell is one reason among many. So, I did what any designer would do, I brainstormed ideas on sticky-notes until I got past the easy ones, then wrote down some more. I ended up with 31 reasons. They fell into some clear groups.</p>
+
+<h2>Culture &amp; Community</h2>
+
+<p>Any community or culture has it’s high points and low points; the things we’re exceptionally proud of and those things which we want to change. Writing is a great way to shine the light on exemplars of the community and to challenge those aspects which don’t deserve the position they have.</p>
+
+<p>This could be writing about trends in design <em>(remember that whole <a href="http://sachagreif.com/flat-pixels/">flat vs. skeuomorphism</a> thing)</em>, unearthing injustices or bias within the community <em>(<a href="http://places.designobserver.com/feature/why-architects-need-feminism/35448/">why architects need feminism</a>)</em>, or simply providing a recap of a conference <em>(IxDA 2013 was totes awesome)</em>.</p>
+
+<p>Write about the culture and community you work in. Talk about the issues that you face as a person within the design community. Challenge your culture to push itself beyond <a href="http://insideintercom.io/the-dribbblisation-of-design/">shallow levels of work</a>.</p>
+
+<h2>Understand &amp; Improve</h2>
+
+<blockquote><p>“You need to be able to express your ideas. So find a way to get your thoughts out there so you have experience articulating and defending a point of view, because that’s what design ultimately is; a point of view.”</p><footer><strong>Jeffrey Zeldman</strong> <cite><a href='http://drt.fm/jeffrey-zeldman-happy-cog-interview-why-designers-need-to-craft-words-not-pixels/'>drt.fm/&hellip;</a></cite></footer></blockquote>
+
+
+<p>Writing, like design, is a medium for communicating a vision or point of view. Writing about our work improves how we understand our design decisions. It improves our arguments for a certain solution over another and shares our decisions with others. It adds a clarity of purpose and forces us to enumerate the intentions of our work.</p>
+
+<p>It provides a space for reflection and a reflective awareness of our work as we <a href="http://www.carlrnelson.com/blog/2012/11/25/getting-back-to-words/">think about writing about it</a>. Reflecting is an opening for improvement and understanding. Why did this process work? What about this design doesn’t meet our companies values? How could we improve the manner in which we share our work?</p>
+
+<p>Write about your work. Examine the process you used to get from A to Z. Clarify your reasons for deciding on one design over another. Philosophize over the principles that go into your work.</p>
+
+<h2>Discourse &amp; Criticism</h2>
+
+<p>There’s nothing like a good bit of design criticism and discourse to rouse the blood. Whether deconstructing the merits of an exceptional piece of work, or critiquing a poorly designed flow, this kind of stuff gets the conversation <em>(or rants)</em> flowing.</p>
+
+<blockquote><p>“Like is not a design word and has nothing to do with any business goal. It’s just a reported mental attitude with no necessary connection to behavior.”</p><footer><strong>Erika Hall</strong> <cite><a href='http://www.wired.com/opinion/2013/09/why-do-research-when-you-can-fail-fast-pivot-and-act-out-other-popular-startup-cliches/'>www.wired.com/opinion/2013/09/&hellip;</a></cite></footer></blockquote>
+
+
+<p>Be wary of wandering into the <em><a href="http://tristanedwards.me/what-ios7-should-look-like">I could have done better</a></em> critique zone though. It’s douchey, most likely simple minded, or outright ignoring many product negotiations that shaped the final design. It’s one thing to have a critique, it’s another to tear down other designers because you didn’t like the outcome.</p>
+
+<h2>Meaning &amp; Making</h2>
+
+<blockquote><p>Design: The rendering of intent.</p><p>Design Process: The intention behind how we render intent.</p><footer><strong>@jmspool</strong> <cite><a href='https://twitter.com/jmspool/statuses/377091131986558976'>twitter.com/jmspool/statuses/&hellip;</a></cite></footer></blockquote>
+
+
+<p>By writing we can explore stories and concepts that we may not yet have the tools to design for. It is a way of rendering intent through a narrative prototype that shows what a problem is, how it may be solved, or why it is important.</p>
+
+<p>We can explore ideas we may only have modest napkin sketches about. Define their use cases or open up new questions to explore. Writing is in many ways, as free a space to imagine and create as a whiteboard.</p>
+
+<p>Design is as much about telling stories as it is about making artifacts.</p>
+
+<h2>Business &amp; Work</h2>
+
+<p>No one has written more succinctly about the business of design as Mike Monteiro has. His book, <a href="http://www.abookapart.com/products/design-is-a-job">Design is a Job</a>, is, <em>obviously</em>, all about what makes up the business and work life of a designer.</p>
+
+<p>So much of design is time not spent prototyping, designing, or making. It is time spent negotiating and communicating. Our job as designers is to facilitate the difficult conversations; to make sure those conversations happen.</p>
+
+<p>Writing about the business of design gives a window into what it is like to work with you. Writing case studies showcases how a particular project came to be and what your process is. Writing about the challenges of working within certain development practices gives insight into how you work with developers. Share the way you work with others.</p>
+
+<p>Don’t be a black box designer.</p>
+
+<h2>Write, Share, Teach</h2>
+
+<p>Writing is a means to bring others into the craft. It shows new designers a transparency that should be a standard practice within our field.</p>
+
+<p>Writing gives back to the craft, to the future members of it, and to your clients and stakeholders.</p>
+
+<p>Even if writing scares the shit out of you, <em>it probably will for a while</em>, it’s a responsibility to yourself, to the craft, and to the community to do so.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chores]]></title>
+    <link href="http://carlrnelson.com/blog/2013/09/22/chores/"/>
+    <updated>2013-09-22T19:01:00-07:00</updated>
+    <id>http://carlrnelson.com/blog/2013/09/22/chores</id>
+    <content type="html"><![CDATA[<p>Sometimes design is like doing chores around the house.</p>
+
+<p>It’s sweeping and tidying.</p>
+
+<p>Getting into the corners with a sponge.</p>
+
+<p>Doing the dishes and folding the laundry.</p>
+
+<p>It’s not always about the big choices. Like what your budget is for rent, where you live, or what color you paint your walls; even the choices about what you hang on the walls and what set of dishes you’ll purchase. Those things matter; they set the direction, but they don’t make the home.</p>
+
+<p>The small tokens of effort, day in and day out, make the home. They tend the space. They show care and mindfulness.</p>
+
+<p>Design needs direction; but more than ever, it needs mindfulness. It needs a sensitivity to consequences and normative functions, an awareness of culture and power, a sharing of responsibility and respect.</p>
+
+<p>Do the chores. Find a sense of ease and solace in them. They rarely wow us in their completion, yet without them, our spaces end in shambles.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Creative Method]]></title>
+    <link href="http://carlrnelson.com/blog/2013/09/18/creative-method/"/>
+    <updated>2013-09-18T16:50:00-07:00</updated>
+    <id>http://carlrnelson.com/blog/2013/09/18/creative-method</id>
+    <content type="html"><![CDATA[<p>It&#8217;s been 230 days (or so) since my last post and looking back at my <a href="http://www.carlrnelson.com/blog/2013/01/30/2013-ahead/">2013 Ahead</a> I feel like I&#8217;ve done a decent job with some of the things on that list, minus the utter lack of writing that has occurred. And while the last seven months have been creative and good, they have felt scattered and unfocused in some ways. I&#8217;ve been lacking a system of organization even though I haven&#8217;t missed the lack of one, until recently.</p>
+
+<p>I started reading the book <a href="http://www.amazon.com/Making-Ideas-Happen-Overcoming-ebook/dp/B003NX75W2/">Making Ideas Happen</a> by Scott Belsky, the founder of the Behance network and the creator of the Action Method, and started mulling over my lack of creative method. While not an egregious omission from my life, I imagine it keeps me from really tackling all of the things that need to get done in an effective and efficient manner.</p>
+
+<p>With that in mind, I&#8217;ve taken it upon myself to piece my own Creative Method together using tools I like and some systems that work for other people.</p>
+
+<h2>A creative method in four parts.</h2>
+
+<h3>Part One - Action Items</h3>
+
+<p>The central part of the Action Method is the Action Item: a discrete, actionable <em>(get it?)</em> piece of work that can be captured and checked off.</p>
+
+<p>The Action Item is what drives work forward; if you can’t act on something, it’s just going to languish and never get done. It helps you to break work into discrete pieces that you can finish.</p>
+
+<h3>Part Two - Evernote</h3>
+
+<p>I’ve used Evernote in the past to capture notes <em>(surprised, right?)</em>, images of white boarding sessions and sketches, and even to outline ideas for writing. However, I hadn’t though to use it as an organizational system until I read <a href="http://alistapart.com/article/connected-ux">Connected UX</a> and combined it with pieces of the Action Method from Making Ideas Happen.</p>
+
+<p>It has everything that I need: tags, search, notes, photo capturing, memos. It’s a great place to store references, clip websites and articles, capture notes, create to-do lists, but most importantly to create a structured set of tags and searchable metadata around pieces of information.</p>
+
+<p>Most to-do list applications, including the Action Method app, eventually fell by the wayside, replaced by sticky note to-do lists plastering the edges of my monitor, because they weren’t connected to the rest of the information I needed. Evernote gave me the perfect combination of unstructured data input with structured metadata that I could then query and act on.</p>
+
+<h3>Part Three - Daily Planning</h3>
+
+<p>It’s easy to get into the office in the morning and get swept up in the bustling web of email, social networks, and meetings without even a nod to what you need to tackle that day. I’ve lost a lot of days to these kinds of mornings <em>(including today)</em> and they suck. They are hard to recover from without resetting your day somehow <em>(hitting the gym is usually my only good reset button)</em>.</p>
+
+<p>Out of this planning wasteland were born my morning planning sessions. The first thing I do is sit down at my desk and go through my action items. I select a couple of high priority ones that will take dedicated time, often more involved design or analysis tasks. Also immediately tackling a few quick-to-knock-off action items, usually email followups or planning items. I’ll also quickly triage my email if I have time, create follow-up action items and get moving on my day.</p>
+
+<h3>Part Four - Daily Retro</h3>
+
+<p>I took this idea from our agile practice at work but compressed it to a daily practice. It’s a quick look at what went well, what didn’t go well, and what I should think about changing. It’s bit of a reflective +/-/Δ moment where I try to understand how my day went.</p>
+
+<p>I also use this time to add any end of day action items that I’ve jotted down on paper throughout the day that haven’t made it into Evernote yet.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Creative Spaces]]></title>
+    <link href="http://carlrnelson.com/blog/2013/02/25/creative-spaces/"/>
+    <updated>2013-02-25T19:43:00-08:00</updated>
+    <id>http://carlrnelson.com/blog/2013/02/25/creative-spaces</id>
+    <content type="html"><![CDATA[<p>I finally purchased a desk. After tormenting myself with the dreamy fields of vintage and high-end designer desks. I stumbled across a desk at Scandanavian Designs that was very nearly exactly what I was looking for. So much so that it parallelled some of the design decisions I made while sketching an ideal desk.</p>
+
+<p>And so the first pieces of my creative workspace are coming together. The desk is the keystone. The rest layers atop of it.</p>
+
+<p>It makes such a difference to have a workspace all your own. A place where you can feel free to leave work in progress scattered across the surface to come back to the next day. A place you can paste up crazy ideas. A place where hours whisk away as you begin researching a new project.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2013 Ahead]]></title>
+    <link href="http://carlrnelson.com/blog/2013/01/30/2013-ahead/"/>
+    <updated>2013-01-30T14:23:00-08:00</updated>
+    <id>http://carlrnelson.com/blog/2013/01/30/2013-ahead</id>
+    <content type="html"><![CDATA[<p>2013 is already a promising year. Nicole and I just moved into an <a class="fancybox" href="../images/assets/new_apartment_2013.jpg" title="Our Amazing Loft">amazing apartment</a> which we&#8217;re excited to make our own. Especially exciting is creating a workspace where my creative projects can live. I&#8217;m booked to teach two dance events this year and the dance troupe is rolling along with our choreography for ILHC. There is a lot I would like to get to this year, and even if I don&#8217;t or if my ideas change partway through the year, that&#8217;s okay.</p>
+
+<p>Below are some vaguely sweeping themes for 2013. They are followed by some more specific intentions constrained to the first quarter of the year.</p>
+
+<h2>Themes of 2013</h2>
+
+<h4>Making &amp; Craftsmanship</h4>
+
+<p>I&#8217;m looking forward to creating as a big part of 2013. The first part of that will be fashioning a workspace. From there I&#8217;ll hopefully litter the space with sketches, schematics, code, writings, and possibly even some physical projects including arduiono systems. I get so very excited when I have the chance to actually spend time working with my hands and the only way to get better at my craft is to put in the time and work.</p>
+
+<h4>Reading &amp; Mental Exploration</h4>
+
+<p>One of the greatest ways for me to break out of my own ideas and perspective is to surround myself in the words and thoughts of someone else. I aim to spend more time reading, digesting and exploring the mental spaces of others. Whether that is through finding possibilities in fiction, deepening my understanding of scientific or technical realms, or drifting through visual spaces with art, architecture and design books.</p>
+
+<h2>Next 3 Months</h2>
+
+<h4>Creative Workspace</h4>
+
+<p>Create a space where I feel comfortable tinkering, sketching, floating amongst my own ideas. Invest time in designing how that space is going to feel; how it is going encourage me to create; how it will enhance how and why I work. To not feel constrained by its prettiness or acceptability. To feel free in that space to start in on the daunting blank canvas and to leave work out, rough edges and all that will tease at me to finish them.</p>
+
+<h4>RWS Downtime</h4>
+
+<p>RWS will stand as shorthand for read, write or sketch. In my downtown, rather than spend time on social networks, checking email or watching videos, I&#8217;ll spend it either reading, writing, or sketching. In this way I&#8217;ll be working within one of my two themes for the year, but also engaging in a different way with my idle time.</p>
+
+<h4>Find A Design Mentor</h4>
+
+<p>One of the things I learned over the last year working with athletic coaches was that having someone there to observe, give feedback, and push you past your current limits. I want to find and develop a relationship with a designer locally to give me those same kinds of nudges and feedback as a designer. Part of that will be connecting with a lot of more senior designers who are working in spaces I find interesting, the rest will be a work in progress.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2012 Review]]></title>
+    <link href="http://carlrnelson.com/blog/2013/01/03/2012-review/"/>
+    <updated>2013-01-03T12:10:00-08:00</updated>
+    <id>http://carlrnelson.com/blog/2013/01/03/2012-review</id>
+    <content type="html"><![CDATA[<p>2012 was an exceptional year. For oh so many reasons it has turned out to be one of my favorites so far. The short of it is that I feel that I have finally gotten a grasp on what it means to be me in the context of a relatively high functioning adult. I have vaulted into a career that I&#8217;m exceptionally happy with. I&#8217;m in a preposterously amazing relationship that continues to grow and amaze me with the wonderful <a href="http://www.nicolezuckerman.com" title="Nicole Zuckerman's website">Nicole Zuckerman</a>. I have finally stepped up and taken responsibility for adult things, e.g. the dreaded realm of finances. 2012 was a year when things worked out amazingly, when Obama got re-elected, and when I was stupid and <a href="http://astudyinmovement.com/post/30464236368/thats-my-fractured-finger-woo" title="Yep that's a fracture">broke my middle finger</a> finger-wrestling.</p>
+
+<h2>Professional 2012</h2>
+
+<h4>Salesforce.com</h4>
+
+<p>I started at Salesforce as a Senior UI Designer in April 2012. They reached out to me, which felt amazing, and I couldn&#8217;t be happier to be with them this year. I&#8217;ve learned an exceptional amount as a designer, a communicator, and a person working within a large company alongside exceptionally talented designers and researchers. The work is challenging in both complexity and scope, yet I have the time and support to pursue deepening my knowledge taking classes and going to conferences. My process is richer for the time I have spent here so far and I can&#8217;t wait for another year.</p>
+
+<h4>Speaking &amp; Teaching</h4>
+
+<p>This year I was asked to speak on a panel at the Enterprise 2.0 Conference down in San Jose. In doing so I had a blast evangelizing design and cracking some carapaces at <a href="http://www.theboilingcrab.com/" title="The Boiling Crab Restaurant">The Boiling Crab</a> with other designers. Design is going to be a strong field within enterprise as users become more savvy with technology and their expectations increase. I also taught four <a href="http://www.skillshare.com">Skillshare</a> this year. Two on my own on <a href="http://www.skillshare.com/UX-Flows-Beyond-Sitemaps-and-Wireframes/960131487">UX Flows</a> and two with <a href="https://twitter.com/robsurrency">Rob Surrency</a> and <a href="http://twitter.com/#!/jonathanhung">Jonathan Hung</a> on <a href="http://www.skillshare.com/Guiding-UX-Principles-Extended/1032532550">Guiding UX Principles</a>. I&#8217;ve always found teaching to be a way to learn more about a craft and I love sharing the knowledge I have with others.</p>
+
+<h4>JavaScript &amp; Coding</h4>
+
+<p>I&#8217;ve spent more time this year deepening my knowledge of JavaScript and programming in general. In part thanks to the courses available to me through work, but also independently. Rather than relying heavily on frameworks while not understanding what is going on underneath the hood as I have mostly done in the past, I spent many hours writing in pure JavaScript. I finally grasped the concept of closure, that was a good one. And, I have spent time thinking about code on a more abstract scale when working rather than just diving in and writing.</p>
+
+<h2>Personal 2012</h2>
+
+<h4>Love &amp; Friendship</h4>
+
+<p>This year I spent so much wonderful time deepening my relationship with Nicole. We&#8217;ve danced a lot more together. We&#8217;ve planned more together. We support each other through and through while encouraging each other to grow in the ways we want to see ourselves. We continue to love each other more and more. We&#8217;re tackling a life together. <a class="fancybox" href="../images/assets/carl_nicole_nye_2012.jpg" title="Carl and Nicole on New Year's Eve 2012">This photo says it all</a>. Additionally, I&#8217;ve tried to make an effort to spend more time connecting with my parents and sister including skype calls and more time in person. I didn&#8217;t do as good of a job staying connected with some of my good friends who are elsewhere this year, despite managing the occasional visit or Skype call, and hope to make a better stab at that next year.</p>
+
+<h4>Dance</h4>
+
+<p>I spent less time dancing overall this year than I have in years past. Part of this was confronting the realization that I wasn&#8217;t getting what I wanted out of dancing. I crossed into eleven years of dancing and my goals and priorities have changed considerably over the last couple of years. I&#8217;m no longer interested in traveling, teaching and competing all of the time. I enjoy those activities but it wasn&#8217;t fruitful for me, I wasn&#8217;t as engaged with the dance as I tried those things I had been doing. A lot of the year was spent with some frustration around dance. Even with the great advice from peers whose advice I value, it took me most of the year to start finding delight in the dance again. Part of it comes back to exploring new parts of the dance that I haven&#8217;t, such as balboa, and the other part comes back to digging into a part of the dance I haven&#8217;t done in a while. Choreography. I started choregraphing a group piece in the fall, and also helped choreograph <a href="http://goo.gl/LiC6U" title="Carl &amp; Nicole 30 Second Showcase">two other</a> pieces this year.</p>
+
+<h4>Money</h4>
+
+<p>I&#8217;ve never been a big fan of dealing with money, but this year I got a hold of my shit and started making sure of my financial life was in order. I made sure my credit card debt was all gone and paid off large portions of some personal debt. I took over some student loan payments from my parents. I got a 401k plan and started making sure part of my paycheck went into a savings account (it helps that I have a nice job at Salesforce now). I have health insurance and made use of it (particularly for that broken finger). All in all, a good year for my financial responsibilities.</p>
+
+<h4>Health &amp; Movement</h4>
+
+<p>I joined a <a href="http://studiomix.com">gym</a> that I think is awesome this year. It&#8217;s a great space where I feel not only comfortable to go and work out in, but also to go and hang out in the cafe. I know the staff well and I appreciate their attitude of a physical culture. I&#8217;ve also started worked with two trainers this year. Kirk has improved my skills with kettlebells and reconnected me with pilates. Vincent has helped me with gymnastic training and I&#8217;ve had massive progress on the rings, in my floor work and my handstand. I&#8217;m very excited that I&#8217;ve seen so much progress with not only my strength and mental mindset but also in the development of a physical skillset that I&#8217;ve always wanted to work more on.</p>
+
+<p>When it comes to the health side of things, I&#8217;ve notably drank less this year than in prior years and am generally trying to make a mental effort to not drink as much alcohol. I&#8217;m also trying to imbibe less coffee (and in turn more tea and water) during the day at work, although depending on the day it&#8217;s a battle I&#8217;m willing to lose once in a while. I haven&#8217;t been as vigilant about what I&#8217;m eating and I feel that I could use more vegetables in my diet.</p>
+
+<h4>Skills</h4>
+
+<p>This year I spent time investing in some other various skills I wasn&#8217;t anticipating learning more about. I got CPR and Emergency Response certified through a program at work. It&#8217;s the second time I&#8217;ve been certified and it feels good to know I can help someone in need. I also spent a lot of time learning more about bike repair and maintenance as I purchase a less-than-complete bicycle off of Craigslist and it has become an occasionally tedious but educational experience. Lastly, I purchased a Sony NEX-7. One of the prosumer mirrorless DSLRs and have been taking pictures incessantly with it. In the six or so months I&#8217;ve had it, I can see a visible improvement in my ability to see and frame a shot, although I&#8217;m still not always getting the shot I want. I even printed one of my photos in large format for my mother for Christmas.</p>
+
+<h4>Writing</h4>
+
+<p>Lastly, I&#8217;ve been shit at writing this year. It just hasn&#8217;t been on my priority list and I have felt hampered by not having a good workspace to sit and write when I&#8217;m at home. I think writing really helps change the way I look at the world, it changes my perspective when I might write about what I&#8217;m doing or seeing. The bit of writing that I&#8217;ve been decent at this year was responding to my OhLife emails which come in daily and remind me to journal just a little bit.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Perfectionista]]></title>
+    <link href="http://carlrnelson.com/blog/2012/12/08/perfectionista/"/>
+    <updated>2012-12-08T17:24:00-08:00</updated>
+    <id>http://carlrnelson.com/blog/2012/12/08/perfectionista</id>
+    <content type="html"><![CDATA[<p>One of the things I battle with constantly is the blank page, the emptry screen. That&#8217;s why it took me so long to just suck it up and put up this writing space that isn&#8217;t perfect; that isn&#8217;t how I want it to be yet functions as a minimum viable experience for my writing.</p>
+
+<p>It&#8217;s easy to get sucked into learning a new tool, trying out a different setup, or avoiding the page all together than just putting fingers to the keys and writing. It&#8217;s hard enough to keep all of the distractions of the world away when we need to work, no less the internal distractions that draw us away from work with promises of a better pencil. <em>Your fucking Conderoga is going to do just fine.</em></p>
+
+<p>I&#8217;ve been listened to Mule Radio&#8217;s show <a href="http://muleradio.net/mistakes/" title="Let's Make Mistakes">&#8220;Let&#8217;s Make Mistakes&#8221;</a> with <a href="http://twitter.com/Mike_FTW" title="Mike Monteiro on Twitter">Mike Monteiro</a> and <a href="http://twitter.com/ohheygreat" title="Leah Reich on Twitter">Leah Reich</a> a lot lately. Granted that&#8217;s partly because it has been pouring in San Francisco pretty much everyday for the past week and my bicycle has been in some state of disassembly, but also because it&#8217;s a great show. In &#8220;Digging Yourself Out Of A Hole&#8221; and &#8220;What Happens When You Make A Mistake&#8221; they pull out some of the hard realities of creative work that we get stuck in.</p>
+
+<h3>Digging yourself out of a hole&#8230; getting stuck and what to do.</h3>
+
+<p>I found myself this week in a hole. I was coming back to the designs for a project at work that has been a long time going. And just to put it into context, this project isn&#8217;t a sexy project; it&#8217;s the sweaty, roll up your sleeves and get it done kind of project. So, I&#8217;m coming back to this project for which I had already built out a functional prototype during our last dev release cycle and some additional robustness that I&#8217;d been arguing for got scoped in, yet I&#8217;m stuck in the under-scoped unreleased prototype design and just can&#8217;t get it moving again.</p>
+
+<p>This is what Mike loosely explained as the <em>&#8220;it&#8217;s 3pm and the designer is still only on version 3 of the mockup&#8221;</em> problem. I was waiting for that idea to be <strong>The Idea</strong>, and so when I went back, that idea was what I latched onto and it wasn&#8217;t getting me anywhere. I expected it to be the solution and it wasn&#8217;t. Cue my exceptional design director to come into our 1 on 1 get me to question the fundamentals I had assumed for the problem. In the last hour of the day I was back on track dumping some of my assumptions and moving the work forward.</p>
+
+<p>My design director gave me a moment to break my head above the trees and see the forest. There won&#8217;t always be someone there to give me a boost above the trees but I can learn to remember to make sure to step up and take a look myself from time to time.</p>
+
+<h3>Design as communication.</h3>
+
+<p>If you&#8217;ve read <a href="http://abookapart.com/products/design-is-a-job" title="A Book Apart: Design is a Job"><em>Design is a Job</em></a> you&#8217;ll know that a large part of design work is about selling your work, essentially a communication tool. If you haven&#8217;t read it, go&#8230; buy it, read it now.</p>
+
+<p>Going back to the work I was doing for this project, I was stuck on it, but what I was stuck on it because I already had this communication tool that I thought was sufficient with a few tweaks, however it wasn&#8217;t sufficient because my audience had changed. I had been using the prototype to test with users, to check usefulness and discover problems with usability; but now I had to communicate internally, about what we were exactly building, how it was going to work, and why we were doing it a certain way.</p>
+
+<p>In essence, I had ended up in a different forest and I hadn&#8217;t even noticed because the trees looked the same.</p>
+
+<p>I needed to communicate with different deliverables because I was no longer talking to users, I was talking to product management and lead developers. Shifting from working within small startups where there is no product management structure and what you&#8217;re designing is getting built the same week to a large organization where a large part of the design process is creating documentation of your work is still a challenge for me. Those documents help you sell you ideas when you aren&#8217;t there, they also make sure your ideas are clearly documented when the building happens, or when questions arise as to how things will be built.</p>
+
+<p>The urge to build first can get in the way of communicating your ideas to larger audiences outside of your immediate team, so don&#8217;t shy away from deliverables that are communication tools first.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting back to words]]></title>
+    <link href="http://carlrnelson.com/blog/2012/11/25/getting-back-to-words/"/>
+    <updated>2012-11-25T20:17:00-08:00</updated>
+    <id>http://carlrnelson.com/blog/2012/11/25/getting-back-to-words</id>
+    <content type="html"><![CDATA[<p>It&#8217;s been a long time since I had a consistent blog and I miss it often. Not for the having my voice out there but because by having a place to write I see the world differently. I take note of things I wouldn&#8217;t necessarily have and I spend more time thinking about things. I want to get back to that place.</p>
+
+<p>I recall reading an article somewhere about why people should blog and it was for that exact reason. Because it asks the writer to take note of things that they may not otherwise if they were not thinking of writing.</p>
+
+<p>So, I&#8217;m rekindling my blog and for now putting my portfolio and other work offline while I think about how to reenvision them. I have some ideas, but they&#8217;re going to take some serious work to make happen.</p>
+
+<p>Lastly, I&#8217;ve been a huge proponent of Wordpress in the past. I think it&#8217;s a great platform for so many people but it&#8217;s just gotten so bloated and obnoxious to write in that I couldn&#8217;t be bothered anymore. It&#8217;s a full-on-publishing CMS, not a writing tool. I want to get back to writing. So, after wobbling around with a half-stab at <a href="http://nestacms.com" title="Nesta CMS">Nesta</a>, I came upon <a href="http://octopress.org" title="Octopress">Octopress</a>. Octopress is a lightweight, built for programmers, and gets me back into the command line and markdown. I also get to write SASS instead of CSS for styling and layout which I&#8217;m excited about getting deeper into.</p>
+
+<p>Working in Sublime Text 2 to write and publishing by pushing a markdown file brings me back to the days where I wrote .php files and uploaded them to a folder and a php script continually displayed the latest in the list while appending that file to an archive list.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress]]></title>
+    <link href="http://carlrnelson.com/blog/2012/11/22/octopress/"/>
+    <updated>2012-11-22T20:17:00-08:00</updated>
+    <id>http://carlrnelson.com/blog/2012/11/22/octopress</id>
+    <content type="html"><![CDATA[<p>This is the start of working in markdown again.</p>
+
+<p>Brings me back to the days where I wrote .php files and uploaded them to a folder and a php script continually displayed the latest in the list.</p>
+]]></content>
+  </entry>
+  
+</feed>
